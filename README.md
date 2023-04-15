@@ -1,14 +1,13 @@
-# ats
+#  Analyze Thy Self (ats)
 
-[![PyPI - Version](https://img.shields.io/pypi/v/ats.svg)](https://pypi.org/project/ats)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ats.svg)](https://pypi.org/project/ats)
+A tool that analyzes a player's games and statistically compares them to past games of the player's team and enemy's 
+team to identify patterns using ML techniques.
 
 -----
 
 **Table of Contents**
 
 - [Installation](#installation)
-- [License](#license)
 
 ## Installation
 
@@ -16,6 +15,3 @@
 pip install ats
 ```
 
-## License
-
-`ats` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
